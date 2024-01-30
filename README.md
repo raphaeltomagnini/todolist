@@ -1,7 +1,8 @@
-Projeto Todolis
 
-Gerenciador de tarefas onde pode-se incluir, deletar e ver detalhes sobre a tarefa cadastrada.
+Todolist Project
 
-Tecnologias aplicada:  React, API,Components, Node, Componentes Funcionais, JavaScript, Hooks.
+A task manager where you can include, delete, and view details about registered tasks.
 
-Acesse: https://todolist-5wn9.vercel.app/
+Applied Technologies: React, API, Components, Node, Functional Components, JavaScript, Hooks.
+
+Access: https://todolist-5wn9.vercel.app/
